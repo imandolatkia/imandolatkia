@@ -10,11 +10,11 @@ Experienced Android developer and software engineer, Im Working as Android chapt
 
 📫 How to reach me:
 
-  ✔️telegram ID: https://t.me/iman_dolatkia
-  
-  ✔️whatsapp ID: https://wa.me/09124869956
-  
-  ✔️email: iman.dolatkia@gmail.com
+   ✔️telegram ID: https://t.me/iman_dolatkia
+
+   ✔️whatsapp ID: https://wa.me/09124869956 
+
+   ✔️email: iman.dolatkia@gmail.com
   
 
 <!--
