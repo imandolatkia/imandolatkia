@@ -16,7 +16,9 @@ Experienced Android developer and software engineer, Im Working as Android chapt
 
    ✔️email: iman.dolatkia@gmail.com
       
-   ✔️email: dolatkia.iman@dolatkia.com
+   ✔️email: dolatkia.iman@gmail.com
+   
+   ✔️email: iman@dolatkia.com
   
   <br>
   <br>
