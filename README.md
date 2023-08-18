@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Iman Dolatkia,
-Experienced Android developer and software engineer, Im Working as Android chapter lead in taaghche (best Persian ebook store)
-
-❤️ I love design patterns and uncle Bob's clean code.
+Experienced Android developer and software engineer.
 
 🎮 Game and football lover
 
@@ -11,14 +9,10 @@ Experienced Android developer and software engineer, Im Working as Android chapt
 📫 How to reach me:
 
    ✔️telegram ID: https://t.me/iman_dolatkia
-
-   ✔️whatsapp ID: https://wa.me/+989124869956 
    
    ✔️website: http://dolatkia.com
 
    ✔️email: iman.dolatkia@gmail.com
-      
-   ✔️email: dolatkia.iman@gmail.com
    
    ✔️email: iman@dolatkia.com
   
