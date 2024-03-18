@@ -9,12 +9,8 @@ Experienced Android developer and software engineer.
 📫 How to reach me:
 
    ✔️telegram ID: https://t.me/iman_dolatkia
-   
-   ✔️website: http://dolatkia.com
 
    ✔️email: iman.dolatkia@gmail.com
-   
-   ✔️email: iman@dolatkia.com
   
   <br>
   <br>
